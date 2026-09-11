@@ -5,15 +5,34 @@
 </picture>
 
 
-#  Hi 👋, I'm Saif Mansuri
+#  Hi, I'm Saif Mansuri
 **An AI Engineer || AI Researcher || Data Scientist || Building Research-Driven AI Frameworks**
 
-Email Me 👉 ✉️ **saifakhtar43528@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me ✉️ **saifakhtar43528@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-# 💫 About Me:
-🔭 Building end-to-end AI systems and implementing cutting-edge ML research.<br><br>👯 Open to collaborating on AI research, Computer Vision, NLP, and open-source ML tools.<br><br>🤝 Looking for guidance on scalable AI systems, MLOps, and production-grade ML.<br><br>🌱 Exploring Deep Learning, Transformers, LLMs, Computer Vision, Reinforcement Learning, and Online/Streaming Machine Learning.<br><br>💬 Ask me about Python, Scikit-learn, PyTorch, Machine Learning, and AI fundamentals.<br><br>⚡ My goal is to bridge research papers with practical implementations.
+# About Me:
+I build and study machine learning systems, with a particular interest in how models can learn, adapt, and evolve as data changes.
 
+# Currently exploring:
 
+-> Continual & streaming machine learning
+-> Adaptive ensemble learning
+-> Deep learning & computer vision
+-> LLMs and intelligent systems
+-> ML research → practical implementations
+
+# Research
+-> HELIX — a framework for self-evolving machine learning under concept drift.
+-> Adaptive Ensemble Learning — experimenting with multi-model blending and meta-learning architectures.
+-> Single-Cell Developmental Modeling — studying developmental changes in the mouse visual cortex using single-cell data.
+
+# Writing
+-> Neurogenesis — exploring computational ideas inspired by biological development.
+-> Data Mining of Twitter — experimentation with large-scale text/data analysis.
+
+# Currently
+-> Learning how to turn research ideas into reproducible, working systems.
+-> Interested in AI research, ML engineering, and open-source projects.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saifakhtar_pixel01_95984) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saif.mansoori.5680899) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not.saifatall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-mansuri-a96580380) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/saifmansuri2007) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/saifmansuri2007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AidsB69442) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SaifAkhtar-z5l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifakhtar43528@gmail.com) 
 
@@ -34,13 +53,9 @@ Email Me 👉 ✉️ **saifakhtar43528@gmail.com** For Collaboration/Project or 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saif-pixel1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saif-pixel1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=saif-pixel1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
