@@ -74,5 +74,4 @@ I build and study machine learning systems, with a particular interest in how mo
 
 ```
 
-**Important:** Paste the contents inside the code block into your `README.md` file. Keep `dark_mode.svg` and `light_mode.svg` in the repository root if you want the theme-switching header to work.
-```
+
